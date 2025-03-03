@@ -59,7 +59,7 @@ O jogo continua até que todos os inimigos sejam derrotados ou os heróis percam
 
 ---
 ## Autor
-- **[Seu Nome]** - Desenvolvimento e implementação.
+- Rick Theo - Desenvolvimento e implementação.
 
 ---
 ## Observação
