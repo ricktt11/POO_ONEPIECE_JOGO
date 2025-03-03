@@ -27,7 +27,7 @@ O código está modularizado em arquivos distintos para melhor organização:
 ### Passos
 1. No terminal, navegue até a pasta do projeto:
    ```bash
-   cd caminho\do\arquivo
+   cd caminho\da\pasta
    ```
    ```bash
    ex: cd C:\Users\SeuUsuario\projeto_one_piece
