@@ -1,4 +1,3 @@
-# POO_ONEPIECE_JOGO
 # Projeto POO - One Piece Battle
 
 ## Descrição
