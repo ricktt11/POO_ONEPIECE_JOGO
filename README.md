@@ -66,4 +66,4 @@ O jogo continua até que todos os inimigos sejam derrotados ou os heróis percam
 Para uma experiência melhor, pode-se adicionar melhorias como cores no terminal usando `colorama`, salvar progresso em JSON ou criar um modo multiplayer.
 
 Divirta-se na batalha pelo *One Piece*! ☠️🏴‍☠️
-
+![Image](https://github.com/user-attachments/assets/64bb7485-f033-4d70-858d-a13de8275b4c)
