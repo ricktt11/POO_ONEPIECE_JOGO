@@ -25,7 +25,13 @@ O código está modularizado em arquivos distintos para melhor organização:
 - Clonar ou baixar o repositório
 
 ### Passos
-1. No terminal, navegue até a pasta do projeto.
+1. No terminal, navegue até a pasta do projeto:
+   ```bash
+   cd caminho\do\arquivo
+   ```
+   ```bash
+   ex: cd C:\Users\SeuUsuario\projeto_one_piece
+   ```
 2. Execute o seguinte comando:
    ```bash
    python main.py
