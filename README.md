@@ -3,6 +3,13 @@
 ## Descrição
 Este projeto implementa um sistema de batalha baseado no universo de *One Piece* utilizando conceitos de **Programação Orientada a Objetos (POO)**. O jogo permite que o jogador controle personagens como **Luffy, Zoro e Sanji** para enfrentar inimigos poderosos como os **Gorosei e Imu-Sama**.
 
+## 🎮 Batalha Épica no Mundo de One Piece! ☠️🔥   
+
+📺 **Assista ao vídeo da "gameplay" e explicação do código:**  
+[![One Piece - Sistema de Batalha em Python](https://img.youtube.com/vi/Xa3ldaB1-Ck/maxresdefault.jpg)](https://youtu.be/Xa3ldaB1-Ck)
+
+📝 Código disponível no repositório. Confira e me diga o que achou! 🤩
+
 O código está modularizado em arquivos distintos para melhor organização:
 - `pirata.py`: Classe base `Pirata` e encapsulamento de atributos.
 - `heros.py`: Classes derivadas dos heróis (`UsuarioAkumaNoMi`, `Espadachim`, `Genetica_germa`).
