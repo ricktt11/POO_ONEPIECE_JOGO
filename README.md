@@ -1,19 +1,18 @@
 # Projeto POO - One Piece Battle
 
 ## Descrição
-Este projeto implementa um sistema de batalha baseado no universo de *One Piece* utilizando conceitos de **Programação Orientada a Objetos (POO)**. O jogo permite que o jogador controle personagens como **Luffy, Zoro e Sanji** para enfrentar inimigos poderosos como os **Gorosei e Imu-Sama**.
+Este projeto implementa um sistema de batalha baseado no universo de *One Piece* utilizando conceitos de **Programação Orientada a Objetos (POO)**. O jogo permite que o jogador controle personagens como **Luffy, Zoro e Sanji** para enfrentar inimigos poderosos como os **Goroseis e Imu-Sama**.
 
 
 ## 🎮 Batalha Épica no Mundo de One Piece! ☠️🔥  
 
 Mergulhe no meu projeto de **Programação Orientada a Objetos (POO) em Python**, inspirado no universo de One Piece!  
-Veja como Luffy, Zoro e Sanji enfrentam os poderosos Gorosei e Imu-Sama em um sistema de combate por turnos.  
+Veja como Luffy, Zoro e Sanji enfrentam os poderosos Goroseis e Imu-Sama em um sistema de combate por turnos.  
 
-[Apresentação - Jogo de Turno - One Piece](https://youtu.be/Xa3ldaB1-Ck?feature=shared)
+[Apresentação - Jogo de Turno - One Piece: https://youtu.be/Xa3ldaB1-Ck?feature=shared](https://youtu.be/Xa3ldaB1-Ck?feature=shared)
 
  
 📝 Código disponível no repositório. Confira e me diga o que achou! 🤩
-
 
 O código está modularizado em arquivos distintos para melhor organização:
 - `pirata.py`: Classe base `Pirata` e encapsulamento de atributos.
@@ -81,7 +80,7 @@ O jogo continua até que todos os inimigos sejam derrotados ou os heróis percam
 
 ---
 ## Observação
-Para uma experiência melhor, pode-se adicionar melhorias como cores no terminal usando `colorama`, salvar progresso em JSON ou criar um modo multiplayer.
+Para uma experiência melhor, pode-se adicionar melhorias como cores no terminal usando `colorama` e criar um modo multiplayer.
 
 Divirta-se na batalha pelo *One Piece*! ☠️🏴‍☠️
 
