@@ -9,7 +9,7 @@ Este projeto implementa um sistema de batalha baseado no universo de *One Piece*
 Mergulhe no meu projeto de **Programação Orientada a Objetos (POO) em Python**, inspirado no universo de One Piece!  
 Veja como Luffy, Zoro e Sanji enfrentam os poderosos Gorosei e Imu-Sama em um sistema de combate por turnos.  
 
-[Assista ao vídeo no YouTube: Explicação do código](https://youtu.be/Xa3ldaB1-Ck?feature=shared)
+[Apresentação - Jogo de Turno - One Piece](https://youtu.be/Xa3ldaB1-Ck?feature=shared)
 
  
 📝 Código disponível no repositório. Confira e me diga o que achou! 🤩
