@@ -12,7 +12,7 @@ Veja como Luffy, Zoro e Sanji enfrentam os poderosos Goroseis e Imu-Sama em um s
 [Apresentação - Jogo de Turno - One Piece: https://youtu.be/Xa3ldaB1-Ck?feature=shared](https://youtu.be/Xa3ldaB1-Ck?feature=shared)
 
 ![Image](https://github.com/user-attachments/assets/43db97f9-d864-4114-ae25-8a1ea8f0398f)
-PDF utilizado para a apresentação: <!-- Uploading "Projeto-Final.pdf"... -->
+
 📝 Código disponível no repositório. Confira e me diga o que achou! 🤩
 
 O código está modularizado em arquivos distintos para melhor organização:
